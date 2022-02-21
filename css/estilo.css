@@ -1,0 +1,239 @@
+* {
+    /*APLICANDO EM TUDO*/
+    margin: 0px;
+    padding: 0px;
+    font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+
+}
+
+header {
+    background-color: #0088a3;
+    height: 100px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #cccccc;
+    text-align: center;
+    background-color: #afeeee;
+    /* hack para o IE */
+}
+
+#tudo {
+    width: 760px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: left;
+    /* "remédio" para o hack do IE */
+}
+
+#conteudo {
+    padding: 5px;
+    background-color: #eeeeee;
+}
+
+.logo {
+    margin-left: 15px;
+    margin-top: 10px;
+    float: left;
+}
+
+nav {
+    height: 70px;
+    font-size: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    float: left;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 10px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 3.7
+}
+
+.legenda {
+    font-size: 23px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+#katara {
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+
+}
+
+.tkatara{
+    font-size: 65px;
+}
+
+.agua {
+    color: darkblue;
+    font-size: 42px;
+    text-decoration: underline;
+}
+
+#foter {
+    font-size: 20px;
+    width: 100%;
+    height: 80px;
+    background-color: #0088a3;
+    text-align: center;
+
+}
+
+.tribosul {
+    margin-top: 50px;
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+    margin-bottom: 50px;
+}
+
+.tribnorte {
+    margin-top: 50px;
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+    margin-bottom: 50px;
+}
+
+.box {
+    font-size: 20px;
+    color: black;
+    width: 500px;
+    height: 0px;
+    display: inline-block;
+}
+
+.galeriaindex {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    color: black;
+    width: 500px;
+    height: 0px;
+    display: inline-block;
+}
+.box2{
+    display: inline-block;
+    margin-left: 70px;
+    padding: 0px;
+
+}
+#tar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #a7b804;
+}
+
+.ar{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+    margin-bottom: 50px;
+}
+.box3{
+    display: inline-block;
+    margin-left: 70px;
+    
+    padding: 0px;
+    float: none;
+}
+.agua1{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+    margin-bottom: 50px;
+
+}
+#tagua{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #44ace7;
+}
+#tterra{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #407738;
+}
+.terra3{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+    margin-bottom: 50px;
+}
+.fogo4{
+    margin-top: 50px;
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+    margin-bottom: 50px;
+}
+#tfogo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:#b45237 ;
+
+}
+
+
+
+#taang{
+    font-size: 110px;
+}
+ 
+.textaang{
+    font-size: 20px;
+    width: 0 auto;
+    height: 0 auto;
+}
+
+#guia{
+    color:red ;
+    font-size: 40px;
+}
+
+#trama{
+    margin-bottom: 30px;
+    margin-top: 100px;
+    font-size: 50px;
+
+}
+
+#video{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#clique{
+    margin-bottom: 10px;
+    font-size: 18px;
+    color:purple;
+}
+
+#temps{
+    font-size: 29px;
+}
+
+#ver{
+background-color: red;
+
+}
+
+.PLAY{
+    color: white;
+    border: black;
+}
